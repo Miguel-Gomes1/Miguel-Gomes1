@@ -1,16 +1,16 @@
-## Hi there 👋
+Bem vindo ao meu Github
 
-<!--
-**Miguel-Gomes1/Miguel-Gomes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🎓 Estudante de análise e desenvolvimento de sistemas (ads) na ficr.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens que estudo
+
+- Python
+- Css3
+- Html5
+- JavaScript
+- 
+##
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guelgomes2018@gmail.com)](mailto:guelgomes2018@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Miguel-Gomes1?label=follow&style=social)](https://github.com/Miguel-Gomes1)
