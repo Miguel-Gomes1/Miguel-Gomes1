@@ -4,12 +4,13 @@ Bem vindo ao meu Github
 
 - 🎓 Estudante de análise e desenvolvimento de sistemas (ads) na ficr.
 
-## Linguagens que estudo
+## Linguagens que estou aprendendo
 
 - Python
 - Css3
 - Html5
 - JavaScript
+- Java
 
 ##
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guelgomes2018@gmail.com)](mailto:guelgomes2018@gmail.com)
