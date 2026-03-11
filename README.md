@@ -16,8 +16,3 @@ C**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Miguel-Gomes1&show_icons=true&locale=en" alt="Miguel-Gomes1" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Miguel-Gomes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Miguel-Gomes1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Miguel Gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguel-gomes-a613141ba" height="30" width="40" /></a>
-</p>
