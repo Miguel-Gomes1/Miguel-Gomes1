@@ -1,17 +1,23 @@
-Bem vindo ao meu Github
+# Hi 👋, I'm Miguel
+i'm Systems Analysis and technology student on Ficr (Faculdade católica imaculada conceição do Recife)/ Embarque digital- Porto digital 
 
-## Sobre mim
+- 🌱 I'm currently learning:
+  **Python
+Css3
+Html5
+Java
+Node.js
+C**
 
-- 🎓 Estudante de análise e desenvolvimento de sistemas (ads) na ficr.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-## Linguagens que estou aprendendo
 
-- Python
-- Css3
-- Html5
-- JavaScript
-- Java
 
-##
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guelgomes2018@gmail.com)](mailto:guelgomes2018@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Miguel-Gomes1?label=follow&style=social)](https://github.com/Miguel-Gomes1)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Miguel-Gomes1&show_icons=true&locale=en" alt="Miguel-Gomes1" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Miguel-Gomes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Miguel-Gomes1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Miguel Gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Miguel Gomes" height="30" width="40" /></a>
+</p>
