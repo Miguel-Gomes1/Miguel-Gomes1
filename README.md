@@ -2,7 +2,7 @@
 i'm Systems Analysis and technology student on Ficr (Faculdade católica imaculada conceição do Recife)/ Embarque digital- Porto digital 
 
 - 🌱 I'm currently learning:
-  **Python
+  **
 Css3
 Html5
 C**
