@@ -16,20 +16,12 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DevOps**
-
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
 
-<a href="https://github.com/Miguel-Gomes1" title="Perfil de Miguel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Gomes1&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
